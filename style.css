@@ -60,6 +60,7 @@ header {
 
 .segundo {
     background-color: #242481;
+    padding-bottom: 50px;
 }
 
 .segundo h2 {
@@ -93,6 +94,7 @@ header {
     margin-right: 30px;
     text-align: justify;
 }
+
 
 .videos-sop {
     display: flex;
