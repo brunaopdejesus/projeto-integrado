@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #030d33;
+    height: 65px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1vw;
+    font-family: 'Karla', sans-serif;
+}
+
+.logo {
+    width: 1px;
+}
+
+.area-aluno {
+    /* border-style: ; */
+    background-color: rgb(255, 255, 255);
+    color:#030d33;
+    padding: 6px 8px;
+    font-size: 14px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: box-shadow .7s linear;
+}
+
+.area-aluno:hover {
+    background-color: rgb(12, 48, 78);
+    transition: .3s linear;
+    color: white;
+}

@@ -1,0 +1,25 @@
+.menu{
+    display: flex;
+    gap: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.menu li{
+    list-style: none;
+    /* width: 10px;
+    height: 50px; */
+}
+.menu a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10;
+    height: 10;
+    color: white;
+    text-decoration: none;
+    transition: all .3s linear;
+}
+
+.menu a:hover{
+    color: rgb(189, 63, 63);
+}
