@@ -99,8 +99,68 @@ header {
 .videos-sop {
     display: flex;
     justify-content: space-between;
-    padding: 8vh 10vw
+    padding: 5vh 1vw
 }
+
+.video-sop-1 h3 {
+    display: flex;
+    justify-content: left;
+    font-family: 'Roboto', sans-serif;    
+    font-size: 26px;
+    padding-bottom: 4px;
+    /* margin-right: 30px; */
+    margin-left: 30px;
+}
+
+.video-sop-1 h4 {
+    display: flex;
+    justify-content: left;
+    font-family: 'Roboto', sans-serif;    
+    font-size: 20px;
+    padding-bottom: 4px;
+    /* margin-right: 30px; */
+    margin-left: 30px;
+    width: 360px;
+}
+
+.video-sop-2 h3 {
+    display: flex;
+    justify-content: left;
+    font-family: 'Roboto', sans-serif;    
+    font-size: 26px;
+    padding-bottom: 4px;
+    /* margin-right: 30px; */
+}
+
+.video-sop-2 h4 {
+    display: flex;
+    justify-content: left;
+    font-family: 'Roboto', sans-serif;    
+    font-size: 20px;
+    padding-bottom: 4px;
+    /* margin-right: 30px; */
+    width: 350px;
+}
+
+/* .imgs-hare {
+    display: flex;
+    flex-direction: column;
+    
+} */
+
+/* .img-hare-1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.img-hare-1 h3 {
+    display: flex;
+    justify-content: left;
+    color: white;
+    font-family: 'Roboto', sans-serif;    
+    font-size: 26px;
+    padding-bottom: 4px;
+    /* margin-right: 30px; */
 
 
 
@@ -111,8 +171,9 @@ header {
 
 .terceiro h2 {
     color: white;
-    font-family: 'Poppins', sans-serif;
-    font-size: 40px;
+    font-family: 'Roboto', sans-serif;    
+    font-size: 42px;
+    padding-top: 10px;
     display: flex;
     justify-content: center;
     text-align: center;
@@ -120,13 +181,26 @@ header {
 
 .terceiro h3 {
     color: white;
-    font-family: 'Dosis', sans-serif;    
-    font-size: 28px;
+    font-family: 'Roboto', sans-serif;    
+    font-size: 30px;
+    padding-bottom: 10px;
     display: flex;
-    justify-content: center;
-    text-align: center;
+    justify-content: left;
+    margin-left: 30px;
+    width: 50px;
+    /* text-align: center; */
 }
 
+.terceiro h4 {
+    color: white;
+    font-family: 'Roboto', sans-serif;    
+    font-size: 22px;
+    display: flex;
+    justify-content: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: justify;
+}
 
 
 
@@ -136,20 +210,34 @@ header {
 
 .quarto h2 {
     color: white;
-    font-family: 'Poppins', sans-serif;
-    font-size: 40px;
+    font-family: 'Roboto', sans-serif;    
+    font-size: 42px;
+    padding-top: 10px;
     display: flex;
     justify-content: center;
     text-align: center;
-}
+}  
 
 .quarto h3 {
     color: white;
-    font-family: 'Dosis', sans-serif;    
-    font-size: 28px;
+    font-family: 'Roboto', sans-serif;    
+    font-size: 30px;
+    padding-bottom: 10px;
     display: flex;
-    justify-content: center;
-    text-align: center;
+    justify-content: left;
+    margin-left: 30px;
+    /* text-align: center; */
+}
+
+.quarto h4 {
+    color: white;
+    font-family: 'Roboto', sans-serif;    
+    font-size: 22px;
+    display: flex;
+    justify-content: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: justify;
 }
 
 
@@ -161,18 +249,32 @@ header {
 
 .quinto h2 {
     color: white;
-    font-family: 'Poppins', sans-serif;    
-    font-size: 40px;
+    font-family: 'Roboto', sans-serif;    
+    font-size: 42px;
+    padding-top: 10px;
     display: flex;
     justify-content: center;
     text-align: center;
-}
+}  
 
 .quinto h3 {
     color: white;
-    font-family: 'Dosis', sans-serif;    
-    font-size: 28px;
+    font-family: 'Roboto', sans-serif;    
+    font-size: 30px;
+    padding-bottom: 10px;
     display: flex;
-    justify-content: center;
-    text-align: center;
+    justify-content: left;
+    margin-left: 30px;
+    /* text-align: center; */
+}
+
+.quinto h4 {
+    color: white;
+    font-family: 'Roboto', sans-serif;    
+    font-size: 22px;
+    display: flex;
+    justify-content: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: justify;
 }
